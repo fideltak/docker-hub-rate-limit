@@ -1,4 +1,4 @@
-# Docker-Hub Pull Rate  Statうs
+# Docker-Hub Pull Rate Status
 This tool shows current status of docker hub pull rate limit to avoid `ImagePullBackOff`.
 
 # Usage
